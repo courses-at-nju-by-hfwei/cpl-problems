@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.20)
+project(1-types-io C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(pi pi.c)
+add_executable(time time.c)
+add_executable(gray gray.c)
+add_executable(change change.c)
+add_executable(weekday weekday.c)
+add_executable(inverse inverse.c)
+add_executable(planck planck.c)
+add_executable(equation equation.c)
+add_executable(Quine quine.c)
+add_executable(ascii ascii.c)

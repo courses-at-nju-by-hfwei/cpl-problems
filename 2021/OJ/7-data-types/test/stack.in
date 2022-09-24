@@ -1,0 +1,9 @@
+8
+pop
+push t
+push t
+pop
+top
+push n
+push a
+print
